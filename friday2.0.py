@@ -190,7 +190,7 @@ if __name__ == "__main__":
 
         elif 'email' in query:
             email_list = {
-                'test email': 'saidasumra007@gmail.com'
+                'test email': 'jb64549857@gmail.com'
             }
             try:
                 speak("To whom you want to send the mail?")
@@ -209,7 +209,7 @@ if __name__ == "__main__":
         elif 'message' in query:
             user_name = {
 
-                'Friday': '+91 96648 91459'
+                'Friday': '+91 58xxxxx65'
             }
             try:
                 speak("To whom you want to send the whats app message?")
